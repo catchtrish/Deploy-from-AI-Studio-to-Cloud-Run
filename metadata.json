@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons",
+  "description": "A formal minimalist application that displays falling snowflakes or floating balloons for five seconds upon trigger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
